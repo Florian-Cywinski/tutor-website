@@ -1,4 +1,4 @@
-# Tutor Creative
+# Tutor Website
 
 Tutor is a website to create your own tutoring courses - from Brad Traversy's 'Modern HTML & CSS From The Beginning 2.0' course.
 
