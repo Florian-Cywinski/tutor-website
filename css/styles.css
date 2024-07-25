@@ -77,7 +77,9 @@ img {
 
 .navbar.navbar-scroll {
     background-color: rgba(235, 77, 85, 0.8);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(
+        10px
+    ); /* To only have the blur effect to the background color */
 }
 
 .navbar-flex {
